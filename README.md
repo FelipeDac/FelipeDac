@@ -21,6 +21,6 @@
 ##
 
 - 🌱 Atualmente me apronfundando na stack Javascript
-- 👯 Busco conexões que possam gerar crescimento mutuo, tanto profissional, quanto pessoal
+- 👯 Busco conexões que possam gerar crescimento mutuo. Tanto profissional, quanto pessoal
 - 📫 Email: felipe3660@gmail.com
 - 🔎 Pretendo me aprofundar na programação Full-Stack e também UI/UX Design
